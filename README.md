@@ -1,8 +1,11 @@
 # Comparativa: Natalidad y población adulta mayor (2010 vs 2020)
 Este repositorio contiene los archivos para realizar comparativas poblacionales y sus datos relevantes usando los datos de accesos abierto del INEGI (2010 y 2020), los archivos que contienen los datos se encuentran en la siguiente carpeta de google drive debido a que GitHub no permite subidas mayores a 25MB, enlace: https://drive.google.com/drive/folders/1XXtfpqG4Kwza4wv_zKcWwVqiir0vcJZQ?usp=sharing
 
-## Sobre este proyecto
+## Sobre este proyecto: Natalidad y población adulta mayor (2010 vs 2020)
 El objetivo de este proyecto es comparar el cambio en la natalidad y población de adultos mayores en el tiempo (**10 años**) para estimar que población crece más rápido y poder determinar (**por entidad federativa**) cambios presupuestales en base a la prioridad poblaciónal.
+
+# Comparativa: Grado escolar promedio por entidad federativa (2010 vs 2020)
+
 
 ## Aspectos a tener en cuenta sobre los datos empleados
 Los siguientes aspectos deben ser considerados para los datos INEGI2020:
